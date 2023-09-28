@@ -1,0 +1,49 @@
+.rouge{
+    color: red;
+}
+
+.boiteBleue{
+    border: solid blue 5px;
+    height: 95vh;
+    width: 95vw;
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: column-reverse;
+}
+
+
+
+.cercle{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.vert{
+    background-color: green;
+}
+.lasagnes{
+     background-image: url("lasagnes.png");
+ }
+.rectangle{
+    width: 200px;
+    height: 150px;
+}
+
+.centeredBackground{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.violet{
+    background-color: darkviolet;
+}
+.tagliatelles{
+    background-image: url("tagliatelles.png");
+}
+.barbecue{
+    background-image: url("barbecue.png");
+}
